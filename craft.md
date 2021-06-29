@@ -1,4 +1,4 @@
-## Craft
+<h1> Craft </h1>
 
 ## Liste des craft personnalisés 
 
