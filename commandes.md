@@ -1,3 +1,5 @@
+## Commandes
+
 ## Liste des commandes disponible
 
 `/trigger sit` Permet de s'asseoir sur un bloc il faudra faire cette commandes au-dessus du blocs et ensuite faire clic droit pour vous assseoir ( touche s'acroupir pour sortir).
