@@ -6,6 +6,8 @@ disponible :
 
 - Selle 
 
+![craft selle](/img/craft/saddle_craft.png)
+
        LLL  L = Cuir
 
        C*C  C = Chaines
@@ -14,6 +16,14 @@ disponible :
 
 - Armure pour chevaux
 
+![craft armure diamant](/img/craft/diamond_armor_craft.png)
+
+![craft armure fer](/img/craft/iron_armor_craft.png)
+
+![craft armure or](/img/craft/gold_armor_craft.png)
+
+![craft armure cuir](/img/craft/leather_armor_craft.png)
+
 - Bundles
 
       FPF  F= Fils
@@ -21,6 +31,8 @@ disponible :
       PPP
 
 - Calcite
+
+![craft calcite](/img/craft/calcite_craft.png)
 
       ***  D= Diorite
       *DD  S= Stone
