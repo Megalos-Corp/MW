@@ -11,6 +11,7 @@ Bienvenue sur le Wiki du serveur Privé Mégalos World
 ### [Distribution des minerais](/distrib.md)
 
 ### [Commandes Disponible](/commandes.md)
+
 ## Liens Utiles
 
 - [Tutoriel Better Hopper](https://www.youtube.com/watch?v=3iWKsGFkLWA)
