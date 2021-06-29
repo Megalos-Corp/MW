@@ -4,13 +4,13 @@ Bienvenue sur le Wiki du serveur Privé Mégalos World
 
 ## Sommaire
 
-[### Informations](/informations.md)
+### [Informations](/informations.md)
 
-[### Craft Personalisés](/craft.md)
+### [Craft Personalisés](/craft.md)
 
-[### Distribution des minerais](/distrib.md)
+### [Distribution des minerais](/distrib.md)
 
-
+### [Commandes Disponible](/commandes.md)
 ## Liens Utiles
 
 - [Tutoriel Better Hopper](https://www.youtube.com/watch?v=3iWKsGFkLWA)
