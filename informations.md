@@ -18,6 +18,7 @@
    - [Trigger Spectator](https://www.planetminecraft.com/data-pack/smp-friendly-spectator/)
 
 Gamerule `doFireTick` désactiver
+
 Gamerule `playersSleepingPercentage 10`
 
 
