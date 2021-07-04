@@ -11,11 +11,9 @@ disponible :
 - Armure pour chevaux
 
 ![craft armure diamant](/img/craft/diamond_armor_craft.png)
-
 ![craft armure fer](/img/craft/iron_armor_craft.png)
 
 ![craft armure or](/img/craft/gold_armor_craft.png)
-
 ![craft armure cuir](/img/craft/leather_armor_craft.png)
 
 - Bundles
