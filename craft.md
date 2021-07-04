@@ -20,9 +20,7 @@ disponible :
 
 - Bundles
 
-      FPF  F= Fils
-      P*P  P= Peau de lapin
-      PPP
+![craft bundle](/img/craft/bundle_craft.png)
 
 - Calcite
 
