@@ -1,4 +1,10 @@
 title: "Megalos World Wiki"
-author: "Contact :"
+author: "Version 1.2"
 email: "nesiosdev@outlook.fr"
 theme: minima
+skin: dark
+
+header_pages:
+  - informations.md
+  - commandes.md
+  - craft.md
