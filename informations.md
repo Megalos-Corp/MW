@@ -3,18 +3,18 @@ title: Informations
 autor: Nesios
 ---
 
-**Version:** 1.17 Fabric
+**Version :** 1.17 Fabric
 
 **Date de lancement :** 16.06.2021
 
-## **Mods:**
+## **Mods :**
 
 - Lithium
 - Spark
 - Fat Orb Xp
--  StyledChat
+- StyledChat
 
-## **Datapack:**
+## **Datapack :**
 
 - [All Mobs Head](https://www.curseforge.com/minecraft/customization/all-mob-heads)
 - Armor Statue
@@ -25,14 +25,19 @@ autor: Nesios
 - Just Sit
 - [Trigger Spectator](https://www.planetminecraft.com/data-pack/smp-friendly-spectator/)
 
+## **Gamerules :**
+
       Gamerule `doFireTick` désactiver
 
       Gamerule `playersSleepingPercentage 10`
 
+## **Système de Génération :**
 
-Génération: Custom ([datapack](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDQ3VVNvZGxkallfVUZPTlpjTzhESG1hUVRxd3xBQ3Jtc0trNk1tbVdZY0hiNTg4dG8zNmVZeFZkT0lsRmtvSU9uXzVaZ2MwbEtqRlp0aVpsNkNzenFQYTFaNE9uUmxxNzlUUUhSNllGcENoelNkOW8yODQyY3ZUNjMwN3ZQdGtyekhzLTh0VTFoaU1qT3BDMktqSQ&q=https%3A%2F%2Fwww.planetminecraft.com%2Fdata-pack%2Fcaves-amp-cliffs-expansion-pack-20w20a-compatible%2F))
+**Génération :** Datapack Caves and cliffs preview custom [Téléchargement du datapack](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDQ3VVNvZGxkallfVUZPTlpjTzhESG1hUVRxd3xBQ3Jtc0trNk1tbVdZY0hiNTg4dG8zNmVZeFZkT0lsRmtvSU9uXzVaZ2MwbEtqRlp0aVpsNkNzenFQYTFaNE9uUmxxNzlUUUhSNllGcENoelNkOW8yODQyY3ZUNjMwN3ZQdGtyekhzLTh0VTFoaU1qT3BDMktqSQ&q=https%3A%2F%2Fwww.planetminecraft.com%2Fdata-pack%2Fcaves-amp-cliffs-expansion-pack-20w20a-compatible%2F)
 
-_la version que l'on utilise est une version custom du data pack pour entre autre ajouter la génération de la poudreuse en montagne_.
+_la version que l'on utilise est une version custom du data pack pour entre autre ajouter la génération de la poudreuse en montagne et forcer la génération des biomes cavernes_.
 
-Seed :  `8893489520394852996`
+**Seed :**  `8893489520394852996`
 
+**Distribution des minerais :** nous uttilisons la distributions expérimental de la 1.18.
+[Image de la distribution](/distrib.md)
