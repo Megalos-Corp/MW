@@ -1,8 +1,13 @@
+---
+title: Commandes
+autor: Nesios
+---
+
 <h1> Commandes </h1>
 
 ## Liste des commandes disponible
 
-`/trigger sit` Permet de s'asseoir sur un bloc il faudra faire cette commandes au-dessus du blocs et ensuite faire clic droit pour vous assseoir ( touche s'acroupir pour sortir).
+`/trigger sit` Permet de s'asseoir sur un bloc. cette commandes est à exécutées au-dessus du blocs, ensuite faite un clic droit dessus pour vous assseoir ( touche s'acroupir pour sortir).
 
 `/trigger LastDeath` Vous donne la position de votre dernière mort.
 
