@@ -1,17 +1,7 @@
 
 ![head](https://media.discordapp.net/attachments/714816183920230481/857401126362021932/MegalosWorld.png?width=893&height=182)
 
-Bienvenue sur le Wiki du serveur Privé Mégalos World
-
-## Sommaire
-
-### [Informations](/informations.md)
-
-### [Craft Personalisés](/craft.md)
-
-### [Distribution des minerais](/distrib.md)
-
-### [Commandes Disponible](/commandes.md)
+Bienvenue sur le Wiki du serveur Minecraft Mégalos World
 
 ## Liens Utiles
 
