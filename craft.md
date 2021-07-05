@@ -3,8 +3,6 @@ title: Craft
 autor: Nesios
 ---
 
-<h1> Craft </h1>
-
 ## Liste des craft personnalisés 
 
 disponible :

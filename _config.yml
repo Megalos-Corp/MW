@@ -1,10 +1,16 @@
 title: "Megalos World Wiki"
 author: "Version 1.2"
-email: "nesiosdev@outlook.fr"
+email: "Megalos Corp © 2021"
 theme: minima
-skin: dark
 
 header_pages:
+  - README.md
+  - informations.md
+  - commandes.md
+  - craft.md
+
+sidebar_pages:
+  - README.md
   - informations.md
   - commandes.md
   - craft.md
