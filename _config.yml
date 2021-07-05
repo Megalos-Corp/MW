@@ -1,6 +1,8 @@
 title: "Megalos World Wiki"
-author: "Version 1.2"
-email: "Megalos Corp © 2021"
+author:
+  name: "Megalos Corp © 2021"
+  email: "Contact@megaloscorp.onmicrosoft.com"
+
 theme: minima
 
 header_pages:
@@ -8,9 +10,17 @@ header_pages:
   - informations.md
   - commandes.md
   - craft.md
+  - distrib.md
 
 sidebar_pages:
   - README.md
   - informations.md
   - commandes.md
   - craft.md
+  - distrib.md
+
+  minima:
+    social_links:
+      youtube: Mégalos Team
+      youtube_channel: UCgc0DywR9jbN1-oT5fc0LHw
+      youtube_channel_name: Mégalos Team
