@@ -6,6 +6,7 @@
    - Lithium
    - Spark
    - Fat Orb Xp
+   - StyledChat
 
 **Datapack:**
 
