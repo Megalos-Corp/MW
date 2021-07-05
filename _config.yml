@@ -6,14 +6,6 @@ author:
 theme: minima
 
 header_pages:
-  - README.md
-  - informations.md
-  - commandes.md
-  - craft.md
-  - distrib.md
-
-sidebar_pages:
-  - README.md
   - informations.md
   - commandes.md
   - craft.md
