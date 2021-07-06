@@ -1,5 +1,5 @@
 
-![head](https://media.discordapp.net/attachments/714816183920230481/857401126362021932/MegalosWorld.png?width=893&height=182)
+![head](https://cdn.discordapp.com/attachments/575698116729372712/861952828292333588/Frame_14.png?width=893&height=182)
 
 Bienvenue sur le Wiki du serveur Minecraft Mégalos World
 
