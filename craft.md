@@ -1,6 +1,6 @@
 ---
 title: Craft
-autor: Nesios
+author: Nesios
 ---
 
 ## Liste des craft personnalisés 

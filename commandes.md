@@ -1,6 +1,6 @@
 ---
 title: Commandes
-autor: Nesios
+author: Nesios
 ---
 
 ## Liste des commandes disponible

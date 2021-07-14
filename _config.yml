@@ -7,9 +7,9 @@ theme: minima
 minima:
 
 social_links:
-  youtube: Team Megalos
-  youtube_channel: UCgc0DywR9jbN1-oT5fc0LHw
-  youtube_channel_name: Team Megalos
+  youtube: "Team Megalos"
+  youtube_channel: "UCgc0DywR9jbN1-oT5fc0LHw"
+  youtube_channel_name: "Team Megalos"
 
 header_pages:
   - informations.md
