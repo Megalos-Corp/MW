@@ -3,11 +3,11 @@ title: Craft
 author: Nesios
 ---
 
-## Liste des craft personnalisés 
+## Liste des craft personnalisés
 
 disponible :
 
-- Selle 
+- Selle
 
 ![craft selle](/img/craft/saddle_craft.png)
 
