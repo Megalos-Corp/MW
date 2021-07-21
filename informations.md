@@ -12,7 +12,7 @@ author: Nesios
 - Lithium
 - Spark
 - Fat Orb Xp
-- StyledChat
+- Fabric API
 
 ## **Datapack :**
 
