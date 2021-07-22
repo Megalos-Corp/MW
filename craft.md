@@ -29,4 +29,4 @@ disponible :
 
 - Bloc de Lumière
 
-![craft light]()
+![craft light](/img/craft/light_craft.png)
