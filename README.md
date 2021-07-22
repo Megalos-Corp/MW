@@ -4,7 +4,8 @@
 Bienvenue sur le Wiki du serveur Minecraft Mégalos World
 
 # Actualitées
-![election-screen](./img/election-screen.png)
+
+>![election-screen](./img/election-screen.png)
 **[22/07/2021]** : Lancement des élections municipal de la ville du spawn.
 Plus d'informations [ici](./election.md)
 
