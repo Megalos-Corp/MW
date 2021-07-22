@@ -3,6 +3,11 @@
 
 Bienvenue sur le Wiki du serveur Minecraft Mégalos World
 
+<?php
+$playeronline = file_get_contents('http://api.serveurs-minecraft.com/api.php?Joueurs_En_Ligne_Ping&ip=146.59.138.51&port=25627');
+echo $playeronline;
+?>
+
 # Actualitées
 
 >![election-screen](./img/election-screen.png)
