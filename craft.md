@@ -26,3 +26,7 @@ disponible :
 - Calcite
 
 ![craft calcite](/img/craft/calcite_craft.png)
+
+- Bloc de Lumière
+
+![craft light]()
