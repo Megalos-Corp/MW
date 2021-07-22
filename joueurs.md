@@ -3,7 +3,7 @@ title: Joueurs
 author: Nesios
 ---
 
-## **Listes des Joueurs :**
+## Listes des Joueurs :
 
 ---
 
