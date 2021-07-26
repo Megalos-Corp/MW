@@ -3,16 +3,9 @@ title: Informations
 author: Nesios
 ---
 
-**Version :** 1.17.1 Fabric
+**Version :** 1.17.1 Airplane
 
 **Date de lancement :** 16.06.2021
-
-## **Mods :**
-
-- Lithium
-- Spark
-- Fat Orb Xp
-- Fabric API
 
 ## **Datapack :**
 

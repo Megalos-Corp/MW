@@ -7,24 +7,36 @@ author: Nesios
 
 ---
 
+ 
 ◾ **Nesios**
+---
 
 ◾ **Negumi**
+---
 
 ◾ **Cripatgame**
+---
 
 ◾ **Skings**
+---
 
 ◾ **Wox**
+---
 
 ◾ **Sophiemitsu**
+---
 
 ◾ **Kurama**
+---
 
 ◾ **Dwayne**
+---
 
 ◾ **Bouuw**
+---
 
 ◾ **CyldorY**
+---
 
 ◾ **Yumiko**
+---
