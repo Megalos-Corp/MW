@@ -10,12 +10,11 @@ author: Nesios
 ## **Datapack :**
 
 - [All Mobs Head](https://www.curseforge.com/minecraft/customization/all-mob-heads)
-- Armor Statue
+- [Armor Statue](https://vanillatweaks.net/picker/datapacks/)
 - [Better Hopper](https://www.youtube.com/watch?v=3iWKsGFkLWA)
-- AFK Display
+- [AFK Display](https://vanillatweaks.net/picker/datapacks/)
 - [RIP](https://www.planetminecraft.com/data-pack/last-death-position-soul-edition/) (système de mort)
-- Wandering trades
-- Just Sit
+- [Wandering trades](https://vanillatweaks.net/picker/datapacks/)
 - [Trigger Spectator](https://www.planetminecraft.com/data-pack/smp-friendly-spectator/)
 
 ## **Gamerules :**

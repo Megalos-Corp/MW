@@ -8,35 +8,35 @@ author: Nesios
 ---
 
  
-◾ **Nesios**
+**Nesios**
 ---
 
-◾ **Negumi**
+**Negumi**
 ---
 
-◾ **Cripatgame**
+**Cripatgame**
 ---
 
-◾ **Skings**
+**Skings**
 ---
 
-◾ **Wox**
+**Wox**
 ---
 
-◾ **Sophiemitsu**
+**Sophiemitsu**
 ---
 
-◾ **Kurama**
+**Kurama**
 ---
 
-◾ **Dwayne**
+**Dwayne**
 ---
 
-◾ **Bouuw**
+**Bouuw**
 ---
 
-◾ **CyldorY**
+**CyldorY**
 ---
 
-◾ **Yumiko**
+**Yumiko**
 ---
