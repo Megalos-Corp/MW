@@ -5,10 +5,8 @@ Bienvenue sur le Wiki du serveur Minecraft Mégalos World
 
 # Actualitées
 
->![election-screen](./img/election-screen.png)
-**[22/07/2021]** : Lancement des élections municipal de la ville du spawn.
-Plus d'informations [ici](./election.md)
-
+>![new-maire](./img/art-newmaire.png)
+**[01/08/2021]** : Sophiemitsu élu Maire de la ville pour une durée de 3 mois.
 ---
 ## Liens Utiles
 
