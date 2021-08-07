@@ -33,3 +33,8 @@ author: Nesios
 
 **Distribution des minerais :** nous uttilisons la distributions expérimental de la 1.18.
 [Image de la distribution](/distrib.md)
+
+## Liens Utiles
+
+- [Tutoriel Better Hopper](https://www.youtube.com/watch?v=3iWKsGFkLWA)
+- [Tutoriel Armor Statue](https://www.youtube.com/watch?v=nV9-_RacnoI)
