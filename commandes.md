@@ -7,7 +7,7 @@ author: Nesios
 
 > Vous pouvez vous asseoir sur tout les blocs de types escalier et dalle en cliquant dessus sans avoir d'objet en main.
 
-`/sit` Permet de s'asseoir sur un bloc. cette commandes est à exécutées au-dessus du blocs( touche s'acroupir pour sortir ).
+`/sit` Permet de s’asseoir sur un bloc. Cette commande est à exécutée au-dessus du blocs (touche s’accroupir pour sortir).
 
 `/sittoggle` Permet d'activer ou non la fonctionnalitée pour s'asseoir sur un bloc.
 
