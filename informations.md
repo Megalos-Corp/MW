@@ -5,7 +5,7 @@ author: Nesios
 
 **Version :** 1.17.1 Airplane
 
-**Mis àjour :**1.1
+**Mis à jour :** 1.1
 
 **Date de lancement :** 16.06.2021
 
