@@ -5,6 +5,8 @@ author: Nesios
 
 **Version :** 1.17.1 Airplane
 
+**Mis àjour :**1.1
+
 **Date de lancement :** 16.06.2021
 
 ## **Datapack :**
@@ -12,9 +14,7 @@ author: Nesios
 - [All Mobs Head](https://www.curseforge.com/minecraft/customization/all-mob-heads)
 - [Armor Statue](https://vanillatweaks.net/picker/datapacks/)
 - [Better Hopper](https://www.youtube.com/watch?v=3iWKsGFkLWA)
-- [AFK Display](https://vanillatweaks.net/picker/datapacks/)
 - [RIP](https://www.planetminecraft.com/data-pack/last-death-position-soul-edition/) (système de mort)
-- [Wandering trades](https://vanillatweaks.net/picker/datapacks/)
 - [Trigger Spectator](https://www.planetminecraft.com/data-pack/smp-friendly-spectator/)
 
 ## **Gamerules :**
