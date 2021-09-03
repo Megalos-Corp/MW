@@ -1,6 +1,5 @@
 ![news-title](./img/NEWS.png)
 
----
 >![Halloween-event](./img/art-Halloween-project.png)
 **[01/09/2021]** : Lancement de l'évenement jeux d'horreur. Plus d'infos [ici](#)
 ---
