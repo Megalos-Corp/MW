@@ -35,8 +35,5 @@ author: Nesios
 **Bouuw**
 ---
 
-**CyldorY**
----
-
-**Yumiko**
+**Nandieb**
 ---
