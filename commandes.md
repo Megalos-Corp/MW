@@ -15,6 +15,5 @@ author: Nesios
 
 `/trigger if_invisible` Définie si le cadre le plus proche est visible ou non en ajoutant true pour oui ou false pour non.
 
-`/trigger spectator` permet de basculer du mode survie au mode spectateur.
+`/s` permet de basculer du mode survie au mode spectateur.
 
-`/trigger spnightvis` Active ou désactive l'effet night vision en mode spectateur.
