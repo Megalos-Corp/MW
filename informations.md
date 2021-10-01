@@ -15,7 +15,6 @@ author: Nesios
 - [Armor Statue](https://vanillatweaks.net/picker/datapacks/)
 - [Better Hopper](https://www.youtube.com/watch?v=3iWKsGFkLWA)
 - [RIP](https://www.planetminecraft.com/data-pack/last-death-position-soul-edition/) (système de mort)
-- [Trigger Spectator](https://www.planetminecraft.com/data-pack/smp-friendly-spectator/)
 
 ## **Gamerules :**
 

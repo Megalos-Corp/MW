@@ -15,5 +15,5 @@ author: Nesios
 
 `/trigger if_invisible` Définie si le cadre le plus proche est visible ou non en ajoutant true pour oui ou false pour non.
 
-`/s` permet de basculer du mode survie au mode spectateur.
+`/s` permet de basculer du mode survie au mode spectateur. (Seulement avec le grade megalos).
 
