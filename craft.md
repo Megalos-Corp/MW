@@ -29,3 +29,7 @@ disponible :
 - Bloc de Lumière
 
 ![craft light](/img/craft/light_craft.png)
+
+- Bloc de Base MiniBlocs (tout types de bois)
+
+![craft light](/img/craft/mini_blank.png)
