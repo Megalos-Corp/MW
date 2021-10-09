@@ -4,7 +4,7 @@ author: Nesios
 ---
 ![art-halloween](./img/art-Halloween-project.png)
 
-## Évènement Jeux d'Horreur Mégalos World
+## **Évènement Jeux d'Horreur Mégalos World**
 
 Bonjour les mégalos il est temps de préparer vos sacs à bonbons et dépoussiérer vos livres de sorts pour l'évènement Jeux d'Horreur sur le Mégalos World.
 
@@ -17,9 +17,18 @@ L'évènement débutera le **mercredi 1er Septembre** 17h (ouverture de la zone 
 ![map-pos-halloween](./img/screenshot-halloween.png)
 > *Un portail est disponible dans le nether couloir ouest.*
 
-Liste des Attractions :
+**Liste des Attractions :**
 
 - Dés à coudre (multi)
 - Labyrinthe par Dwayne.
-- Pitchout par Skings.
+- Pitch out par Skings.
 - Maison Hantée par Negumi et Sophie.
+- Manoir Hanté cache cache par Dwayne.
+- Tour Jump par Skings.
+
+**MiniBlocs Temporaire**
+
+- Livre Satanique.
+- Crane de squelette avec du sang.
+- Melon halloween.
+- 
