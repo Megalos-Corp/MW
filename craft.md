@@ -37,6 +37,6 @@ disponible :
 
 ![craft light](/img/craft/mini_blank.png)
 
-- Obsidienne pleureuse (tout types de bois)
+- Obsidienne pleureuse
 
 ![craft light](/img/craft/crying_obsidian.png)
