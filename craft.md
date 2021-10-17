@@ -36,3 +36,7 @@ disponible :
 - Bloc de Base MiniBlocs (tout types de bois)
 
 ![craft light](/img/craft/mini_blank.png)
+
+- Obsidienne pleureuse (tout types de bois)
+
+![craft light](/img/craft/crying_obsidian.png)
