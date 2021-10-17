@@ -17,6 +17,9 @@ disponible :
 ![craft armure fer](/img/craft/iron_armor_craft.png)
 ![craft armure or](/img/craft/gold_armor_craft.png)
 
+- Bloc de Lumière
+
+![craft light](/img/craft/light_craft.png)
 
 - Bundles
 
@@ -26,6 +29,6 @@ disponible :
 
 ![craft calcite](/img/craft/calcite_craft.png)
 
-- Bloc de Lumière
+- Obsidienne pleureuse
 
-![craft light](/img/craft/light_craft.png)
+![craft light](/img/craft/crying_obsidian.png)
