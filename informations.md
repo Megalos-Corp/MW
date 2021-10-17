@@ -5,7 +5,7 @@ author: Nesios
 
 **Version :** 1.17.1 Airplane
 
-**Mis à jour :** 1.1
+**Mis à jour :** 1.2
 
 **Date de lancement :** 16.06.2021
 
@@ -13,7 +13,7 @@ author: Nesios
 
 - [All Mobs Head](https://www.curseforge.com/minecraft/customization/all-mob-heads)
 - [Armor Statue](https://vanillatweaks.net/picker/datapacks/)
-- [Better Hopper](https://www.youtube.com/watch?v=3iWKsGFkLWA)
+- [Better Hopper](https://www.youtube.com/watch?v=3iWKsGFkLWA) (seulement l'xp et les filtres)
 - [RIP](https://www.planetminecraft.com/data-pack/last-death-position-soul-edition/) (système de mort)
 
 ## **Gamerules :**

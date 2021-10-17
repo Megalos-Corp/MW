@@ -31,4 +31,8 @@ disponible :
 
 - Obsidienne pleureuse
 
-![craft light](/img/craft/crying_obsidian.png)
+![craft light](/img/craft/light_craft.png)
+
+- Bloc de Base MiniBlocs (tout types de bois)
+
+![craft light](/img/craft/mini_blank.png)
