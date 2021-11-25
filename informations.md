@@ -8,6 +8,7 @@ author: Nesios
 **Mis à jour :** 1.2
 
 **Date de lancement :** 16.06.2021
+**Date de fin :** 28.11.2021
 
 ## **Datapack :**
 
